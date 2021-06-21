@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Powershell
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -19,19 +10,24 @@
 
 - 🔭 I’m currently working on PowerShell  
   
-
 - 🌱 I’m currently learning Azure and trying Kubernetes  
   
-
 - ❓ Ask me about anything related to anything, if I don't know 🤷‍♂️ I will try to find out  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
 
 <!--
+- 🔭 I’m currently working on Powershell
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -117,7 +113,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
