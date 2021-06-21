@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammedha)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammedha&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **mohammedha/mohammedha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
