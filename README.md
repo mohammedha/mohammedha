@@ -109,9 +109,10 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+<!--
 <!-- BLOG-POST-LIST:START -->  
+## Recent Blog Posts  
+
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
@@ -133,9 +134,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
--->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammedha&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammedha&theme=dark)](https://git.io/streak-stats)
+-->
 <!--
 **mohammedha/mohammedha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
