@@ -20,14 +20,6 @@
 <br/>  
 
 <!--
-- 🔭 I’m currently working on Powershell
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -125,14 +117,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
 <!--
 <br/>  
 
@@ -144,10 +130,10 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
--->
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammedha&theme=dark)](https://git.io/streak-stats)
 
 <!--
