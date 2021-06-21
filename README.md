@@ -105,7 +105,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedha&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark" align="center" /></div>  
 
 <br/>  
 
@@ -136,8 +136,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammedha&theme=dark)](https://git.io/streak-stats)
--->
-<!--
+
 **mohammedha/mohammedha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
