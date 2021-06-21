@@ -103,13 +103,13 @@
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedha&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark" align="center" /></div>  
 
 <br/>  
+-->
 
-<!--
 <!-- BLOG-POST-LIST:START -->  
 ## Recent Blog Posts  
 
@@ -119,6 +119,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <br/>  
+
 
 <!--
 <br/>  
