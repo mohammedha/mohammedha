@@ -20,7 +20,7 @@
 
 <br/>  
 
-
+----
 ## My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
@@ -34,7 +34,7 @@
 
 <br/>  
 
-
+----
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mohammedha" target="_blank">
@@ -54,7 +54,7 @@
 
 <br/>  
 
-
+----
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedha&show_icons=true&count_private=true&hide_border=true&theme=blue-green" align="center" /></div>  
 
